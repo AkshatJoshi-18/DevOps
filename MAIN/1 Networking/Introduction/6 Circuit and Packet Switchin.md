@@ -73,8 +73,7 @@ Packet switching is a method of communication where data is divided into packets
 | Feature                       | Circuit Switching                    | Packet Switching                      |
 |-------------------------------|--------------------------------------|---------------------------------------|
 | Path                          | Dedicated path                       | Dynamic, shared paths                 |
-| Resource Allocation           | Fixed allocation, reserved for       | On-demand, shared among sessions      |
-|                                 session                              |                                       |
+| Resource Allocation           | Fixed allocation, reserved for session | On-demand, shared among sessions      |
 | Efficiency                    | Less efficient (idle times)          | More efficient (no idle resources)    |
 | Latency                       | Low and consistent                   | Variable, can be higher               |
 | Reliability                   | High, once established               | High, but requires error handling     |
