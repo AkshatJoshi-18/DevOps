@@ -34,11 +34,11 @@ Queuing delay is the time a packet spends waiting in a queue before it can be pr
 Transmission delay is the time required to push all the packet's bits onto the transmission medium.
 
 #### **Formula:**
-Transmission Delay = Packet Size (bits) \ Transmission Rate (bps)
+\[ \text{Transmission Delay} = \frac{\text{Packet Size (bits)}}{\text{Transmission Rate (bps)}} \]
 
 #### **Example Calculation:**
 - For a 1,500-byte packet (12,000 bits) transmitted over a link with a transmission rate of 1 Mbps (1,000,000 bits per second):
-Transmission Delay = 12,000  bits / 1,000,000  bps = 0.012  seconds = 12 / milliseconds
+  \[ \text{Transmission Delay} = \frac{12,000 \text{ bits}}{1,000,000 \text{ bps}} = 0.012 \text{ seconds} = 12 \text{ milliseconds} \]
 
 #### **Typical Duration:**
 - Dependent on the packet size and the transmission rate, ranging from microseconds to milliseconds.
@@ -49,7 +49,7 @@ Transmission Delay = 12,000  bits / 1,000,000  bps = 0.012  seconds = 12 / milli
 Propagation delay is the time it takes for a signal to travel from the sender to the receiver over the transmission medium.
 
 #### **Formula:**
-Propagation Delay = Distance \ Propagation Speed
+\[ \text{Propagation Delay} = \frac{\text{Distance}}{\text{Propagation Speed}} \]
 
 #### **Propagation Speed:**
 - Typically the speed of light in the medium:
@@ -59,7 +59,7 @@ Propagation Delay = Distance \ Propagation Speed
 
 #### **Example Calculation:**
 - For a 1,000 km link with a propagation speed of 200,000 km/s:
-Propagation Delay = 1,000  km / 200,000 km/s = 0.005 seconds = 5 milliseconds
+  \[ \text{Propagation Delay} = \frac{1,000 \text{ km}}{200,000 \text{ km/s}} = 0.005 \text{ seconds} = 5 \text{ milliseconds} \]
 
 #### **Typical Duration:**
 - Typically a few milliseconds, depending on the distance and medium.
@@ -77,7 +77,7 @@ Propagation Delay = 1,000  km / 200,000 km/s = 0.005 seconds = 5 milliseconds
 
 The total end-to-end delay experienced by a packet is the sum of all four types of delays:
 
-Total Delay = Processing Delay + Queuing Delay + Transmission Delay + Propagation Delay
+\[ \text{Total Delay} = \text{Processing Delay} + \text{Queuing Delay} + \text{Transmission Delay} + \text{Propagation Delay} \]
 
 ### Reducing Delays
 
