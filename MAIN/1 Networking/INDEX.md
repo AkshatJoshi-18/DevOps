@@ -1,5 +1,6 @@
 **Introduction:**
 
+    0-> History of Computer Networking and the Internet
     1-> Computer Networks and the Internet
     2-> Components and as services of Internet
     3-> What is a protocol
@@ -9,7 +10,6 @@
     7-> Internet Backbone
     8-> Delays: Processing, Queing, Transmission and Propagation delays
     9-> The Layered Architecture: Protocol Layering, The OSI Reference Model and the TCP/IP protocol stack
-    10-> History of Computer Networking and the Internet
 
 
 **Application Layer:**
@@ -32,6 +32,6 @@
                     - pop3
                     - imap
                     - MIME
-        
+
         ->DNS:  Services, How it works, Root, Top-Level and Authoritative DNS servers, Resource Records, DNS messages
                 A simple introduction to p2p file distribution: BitTorrent
