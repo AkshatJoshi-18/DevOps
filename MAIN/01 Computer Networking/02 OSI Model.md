@@ -14,4 +14,4 @@
 - This layer uses techniques such as encoding, modulation, and error detection and correction, to minimize the effects of interference and noise.
 - Some protocols used in the layer include Ethernet, Wi-Fi, Bluetooth, USB, and HDMI.
 
-[image](/resources_img/physical-layer-of-osi-model%20(3).webp)
+[image](/resources_img/physical-layer-of-osi-model%20(3).png)
