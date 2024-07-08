@@ -4,6 +4,8 @@
 - The OSI model is crucial in DevOps networking because it provides a common reference point for network architects, engineers, and administrators to design, implement, and troubleshoot networks.
 
 
+### Layer 1: Physical Layer :
+
 - The Physical layer is the first and bottom layer of the OSI model.
 - It converts data into a stream of bits and transmits them over the physical network medium.
 - It defines the physical characteristics of the network, such as the type of cable, connectors, and signaling methods used to transmit data.
