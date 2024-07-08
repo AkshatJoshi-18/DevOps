@@ -2,7 +2,7 @@
 
 - TCP/IP is a set of communication protocols that allow computers to communicate over the internet.
 
-## What is TCP/IP, and How is it Different from OSI :
+## What is TCP / IP, and How is it Different from OSI :
 
 - TCP/IP is the most widely used networking protocol suite in DevOps networking. It provides a reliable, connection-oriented communication model for transmitting data between devices.
 
