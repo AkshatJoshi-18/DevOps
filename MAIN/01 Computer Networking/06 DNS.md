@@ -39,7 +39,7 @@
     - DNS maps domains to IP addresses.
     <br>
 
-        ![image](/resources_img/Networking/DNS/domain_map_to_ip.png)
+    ![image](/resources_img/Networking/DNS/domain_map_to_ip.png)
     <br>
 
 - **Zones:**
@@ -52,7 +52,7 @@
     - A zone can contain multiple domain names.
     <br>
         
-        ![image](/resources_img/Networking/DNS/Zones.png)
+    ![image](/resources_img/Networking/DNS/Zones.png)
     <br>
 
 - **Delegation:**
