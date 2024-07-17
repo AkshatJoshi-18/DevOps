@@ -50,13 +50,35 @@
 
 ## CIDR:
 
+<br>
+
 - In DevOps networking, CIDR is a method used to allocate and manage IP addresses more efficiently. Below is a brief explanation
+
+<br>
+
 - CIDR enables variable-length subnet masks to create subnets of different sizes within a network.
+
+<br>
+
 - CIDR, denoted by a slash followed by a number, determines the network portion of an IP address using the subnet mask. For example, a subnet mask of /24 would create a network with 256 addresses, while a subnet mask of /25 would result in a network with 128 IP addresses.
+
+<br>
+
 - CIDR helps to conserve IP addresses by allowing organizations to create smaller subnets, which can be allocated to devices only as needed, rather than assigning larger blocks of IP addresses that may go unused.
+
+<br>
+
 - CIDR also enables easier route summarization, thus reducing the size of routing tables and improving network performance.
+
+<br>
+
 - CIDR calculates the number of hosts and networks available in a subnet.
+
+<br>
+
 - The following table shows some common CIDR notations and their corresponding subnet masks:
+
+<br>
 
 <br>
 
