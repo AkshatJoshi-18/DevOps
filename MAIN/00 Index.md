@@ -4,7 +4,7 @@
 - [TCP/IP](/MAIN/01%20Computer%20Networking/03%20TCP_IP.md)
 - [IP subnetting and CIDR](/MAIN/01%20Computer%20Networking/04%20IP%20subnetting%20and%20CIDR.md)
 - [Routing](/MAIN/01%20Computer%20Networking/05%20Routing.md)
-- [DNS](/)
+- [DNS](/MAIN/01%20Computer%20Networking/06%20DNS.md)
 - [HTTP and its methods]
 - [Network Troubleshooting Tools]
 - [Putting the Toolbox Together]
