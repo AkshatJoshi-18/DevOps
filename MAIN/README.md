@@ -27,4 +27,4 @@ Welcome to my DevOps learning repository! This repository is dedicated to docume
 ## Getting Started
 
 To get started with the repository, clone it to your local machine using:
--      git clone https://github.com/yourusername/DevOps.git
+``git clone https://github.com/yourusername/DevOps.git``
