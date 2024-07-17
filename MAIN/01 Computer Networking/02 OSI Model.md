@@ -15,7 +15,7 @@
 - This layer uses techniques such as encoding, modulation, and error detection and correction, to minimize the effects of interference and noise.
 - Some protocols used in the layer include Ethernet, Wi-Fi, Bluetooth, USB, and HDMI.
 
-![image](/resources_img/physical-layer-of-osi-model%20(3).png)
+![image](/resources_img/Networking/OSI_model/physical-layer-of-osi-model%20(3).png)
 
 
 ### Layer 2: Data Link layer :
@@ -29,7 +29,7 @@
 - The protocols used in the layer include Ethernet, Token Ring, and FDDI.
 - The medium used in this layer includes twisted pair copper wire, coaxial cable, and fiber optic cable.
 
-![image](/resources_img/datalink_layer.png)
+![image](/resources_img/Networking/OSI_model/datalink_layer.png)
 
 
 ### Layer 3: Network Layer :
@@ -43,7 +43,7 @@
 - The primary task of this layer is to provide routing services and enable data packets to travel across different networks using various routing algorithms.
 - This layer helps manage congestion control by monitoring the network and managing the flow of data packets.
 
-![image](/resources_img/network_layer.png)
+![image](/resources_img/Networking/OSI_model/network_layer.png)
 
 
 ### Layer 4: Transport Layer :
@@ -55,7 +55,7 @@
 - The medium used in this layer can be copper cables, fiber optic cables, or wireless communication.
 - Some of the commonly used protocols in this layer are Transmission Control Protocol (TCP), User Datagram Protocol (UDP), and Stream Control Transmission Protocol (SCTP).
 
-![image](/resources_img/transport_layer.png)
+![image](/resources_img/Networking/OSI_model/transport_layer.png)
 
 
 ### Layer 5: Session Layer :
@@ -68,7 +68,7 @@
 - It interacts with the Presentation and Transport layers.
 - Protocols used in this layer are NetBIOS, RPC, and SQL.
 
-![image](/resources_img/session_layer.png)
+![image](/resources_img/Networking/OSI_model/session_layer.png)
 
 
 ### Layer 6: Presentation Layer :
@@ -80,7 +80,7 @@
 - Compression and decompression of data is another function of this layer, reducing the size of data to be transmitted and saving network bandwidth.
 - Protocols used in this layer are JPEG, GIF, MPEG, ASCII, and EBCDIC.
 
-![image](/resources_img/presentation_layer.png)
+![image](/resources_img/Networking/OSI_model/presentation_layer.png)
 
 
 ### Layer 7: Application Layer :
@@ -93,9 +93,12 @@
 - This layer handles application-specific functions like message formatting, file compression, and user authentication.
 - It interacts with all the lower layers to transmit data across the network.
 
-![image](/resources_img/application_layer1.png)
+![image](/resources_img/Networking/OSI_model/application_layer1.png)
 
+<br>
 
 **Understanding the OSI model and its seven layers is essential for a professional working in DevOps networking. Here is an image for a better understanding:**
 
-![image](/resources_img/OSI_understanding.png)
+<br>
+
+![image](/resources_img/Networking/OSI_model/OSI_understanding.png)
