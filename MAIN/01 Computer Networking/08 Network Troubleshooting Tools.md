@@ -82,6 +82,10 @@
 
 <br>
 
+![image](/resources_img/Networking/Network%20Troubleshooting%20Tools/nslookup.png)
+
+<br>
+
 
 ## Nmap:
 
