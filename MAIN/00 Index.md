@@ -5,7 +5,7 @@
 - **[IP subnetting and CIDR](/MAIN/01%20Computer%20Networking/04%20IP%20subnetting%20and%20CIDR.md)**
 - **[Routing](/MAIN/01%20Computer%20Networking/05%20Routing.md)**
 - **[DNS](/MAIN/01%20Computer%20Networking/06%20DNS.md)**
-- **[HTTP]()**
-- **[Network Troubleshooting Tools]()**
+- **[HTTP](/MAIN/01%20Computer%20Networking/07%20HTTP.md)**
+- **[Network Troubleshooting Tools](/MAIN/01%20Computer%20Networking/08%20Network%20Troubleshooting%20Tools.md)**
 - **[Putting the Toolbox Together]()**
 - **[Conclusion]()**
